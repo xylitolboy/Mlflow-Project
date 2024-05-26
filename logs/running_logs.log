@@ -1,0 +1,50 @@
+[2024-05-19 19:10:46,872: INFO: main: Welcome to our custom logging][2024-05-26 11:54:19,277: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-26 11:54:19,283: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-26 11:55:51,729: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-26 11:55:51,732: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-26 11:55:51,734: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-26 11:56:10,919: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-26 11:56:10,921: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-26 11:56:10,922: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-26 11:57:53,071: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-26 11:57:53,073: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-26 11:57:53,074: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-26 11:57:53,076: INFO: common: created directory at: artifacts]
+[2024-05-26 11:57:53,077: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-26 11:57:53,816: INFO: 946244456: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 31FC:39874B:55968:AF7E0:6652A530
+Accept-Ranges: bytes
+Date: Sun, 26 May 2024 02:57:53 GMT
+Via: 1.1 varnish
+X-Served-By: cache-icn1450056-ICN
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1716692274.534491,VS0,VE286
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9cae17b6bcd30cf223b5db7258c2a7c75b8398bc
+Expires: Sun, 26 May 2024 03:02:53 GMT
+Source-Age: 0
+
+]
+[2024-05-26 12:10:29,442: INFO: main:  >>>> stage Data Ingestion stage started <<<<]
+[2024-05-26 12:10:29,442: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-26 12:10:29,443: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-26 12:10:29,443: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-26 12:10:29,443: INFO: common: created directory at: artifacts]
+[2024-05-26 12:10:29,443: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-26 12:10:29,443: INFO: data_ingestion: File already exists of size : ~ 23 KB]
+[2024-05-26 12:10:29,444: INFO: main: >>>> stage Data Ingestion stage completed <<<< 
+
+x==========x]
